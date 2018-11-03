@@ -1,0 +1,16 @@
+Country,Continent,Holidays_year,GDP Per capita,Unemployment rate,Violent deaths per 100000 pop,% Informal labor rate,Happiness Score,Competitiveness Score,Doing Business Score,Life Expectancy
+Colombia,America,18,14100,9.2,37.6,64,6537,4.3,53,74
+India,Asia,18,6600,3.5,5.75,85,4315,4.52,130,68
+Argentina,America,16,20000,6.6,7.62,47,6599,3.81,116,76
+Chile,America,15,24100,6.6,3.88,33,6652,4.64,57,79
+Venezuela,America,14,13800,6.9,47.04,48,5250,3.27,187,74
+Finland,Europe,15,42200,9,2,,7469,5.44,13,81
+Turkey,Europe,14,24900,10.3,3.23,17,5500,4.39,69,75
+Russia,Europe,14,26500,5.7,9.21,21,5963,4.51,40,71
+Malta,Europe,14,39900,5.3,0.7,,6527,4.52,76,82
+Spain,Europe,14,36400,19.4,0.64,23,6403,4.68,32,83
+Thailand,Asia,16,16900,0.6,6.98,43,6424,4.64,46,75
+Lebanon,Asia,16,18500,6.8,2.03,20,5225,3.84,126,79
+South Korea,Asia,16,37700,3.7,1.1,,5838,5.03,5,82
+Japan,Asia,16,41300,3.1,0.28,13,5920,5.48,34,84
+Brazil,America,12,15200,11.5,30.53,37,6635,4.06,123,75
